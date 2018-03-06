@@ -1,5 +1,5 @@
 package com.tutorial.sessiontracking.httpsession.service;
 
-public class HttpSessionServiceImpl {
+public class HttpSessionServiceImpl implements HttpSessionService{
 
 }
