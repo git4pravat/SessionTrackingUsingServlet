@@ -17,6 +17,7 @@ public class LogoutServlet extends HttpServlet {
      */
     public LogoutServlet() {
         super();
+        System.out.println("Hi");
         // TODO Auto-generated constructor stub
     }
 
